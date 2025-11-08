@@ -1,4 +1,4 @@
-- 👋 Salut, Je suis **Nancy Chemutai** (@chemutai254)
+- 👋 Hello, I am **Nancy Chemutai** (@chemutai254)
 - 👀 I’m interested in ETL, EDA, Data Preprocessing, Visualization, Feature Engineering, Machine Learning (ML) Modeling, and Deployment.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Data Science Projetcs
