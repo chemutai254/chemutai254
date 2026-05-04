@@ -8,8 +8,7 @@
 
 👋 Hello, I am **Nancy Chemutai** (@chemutai254)
 
-Data Scientist with 1+ years of experience, leveraging data and machine learning to drive operational efficiency. 
-Transforming complex datasets into actionable insights. Specializing in machine learning, predictive modelling, and data storytelling across fintech, health, and e-commerce domains.
+Data Scientist with 1+ years of experience, leveraging data and machine learning to drive operational efficiency. Transforming complex datasets into actionable insights. Specializing in machine learning, predictive modelling, and data storytelling across fintech, health, and e-commerce domains.
 
 I perform ETL, EDA, data preprocessing, visualization, feature engineering, machine learning modeling, and deployment to turn business challenges into measurable outcomes.
 
@@ -24,8 +23,8 @@ I perform ETL, EDA, data preprocessing, visualization, feature engineering, mach
 
 ## Programming Languages & Libraries
 
-Languages: Python, SQL, JavaScript, Bash / Shell
-Libraries/Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib/Seaborn, Plotly, XGBoost/LightGBM, Git
+- **Languages**: Python | SQL | JavaScript | Bash / Shell
+- **Libraries/Tools**: Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Matplotlib/Seaborn | Plotly | XGBoost/LightGBM | Git
 
 ## Contact
 
