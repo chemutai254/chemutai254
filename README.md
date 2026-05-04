@@ -23,22 +23,22 @@ I perform ETL, EDA, data preprocessing, visualization, feature engineering, mach
 
 ## Programming Languages & Libraries
 
-| Category | Technology | Approx. Usage |
-| --- | --- | --- |
-| Languages | Python | 50% |
-|  | SQL | 20% |
-|  | R | 10% |
-|  | JavaScript | 8% |
-|  | Bash / Shell | 5% |
-| Libraries / Tools | Pandas | 18% |
-|  | NumPy | 16% |
-|  | Scikit-Learn | 14% |
-|  | TensorFlow | 12% |
-|  | PyTorch | 10% |
-|  | Matplotlib / Seaborn | 8% |
-|  | Plotly | 7% |
-|  | XGBoost / LightGBM | 5% |
-|  | Docker / Git | 5% |
+| Category | Technology |
+| --- | --- |
+| Languages | Python |
+|  | SQL |
+|  | R |
+|  | JavaScript |
+|  | Bash / Shell |
+| Libraries / Tools | Pandas |
+|  | NumPy |
+|  | Scikit-Learn |
+|  | TensorFlow |
+|  | PyTorch |
+|  | Matplotlib / Seaborn |
+|  | Plotly |
+|  | XGBoost / LightGBM |
+|  | Docker / Git |
 
 ## Contact
 
