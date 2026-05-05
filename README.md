@@ -28,7 +28,7 @@ I perform ETL, EDA, data preprocessing, visualization, feature engineering, mach
 
 ## Contact
 
-<!-- - 📧 Email: nancy.chemutai254@gmail.com -->
+- 📧 Email: nancy.chemutai254@gmail.com
 - 🌐 GitHub: https://github.com/chemutai254
 
 ## GitHub Badges
