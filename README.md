@@ -31,6 +31,9 @@ I perform ETL, EDA, data preprocessing, visualization, feature engineering, mach
 - 📧 Email: nancy.chemutai254@gmail.com
 - 🌐 GitHub: https://github.com/chemutai254
 
+## Location
+
+- ![Location](image.png) Nairobi, Kenya
 ## GitHub Badges
 
 - GitHub Profile Stats
