@@ -33,7 +33,7 @@ I perform ETL, EDA, data preprocessing, visualization, feature engineering, mach
 
 ## Location
 
-- ![Location](image.png) Nairobi, Kenya
+- ![Location]() Nairobi, Kenya
 ## GitHub Badges
 
 - GitHub Profile Stats
